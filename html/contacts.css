@@ -1,0 +1,17 @@
+.contacts,
+.address{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    padding: 0 40px;
+}
+
+.contacts_item{
+    width: 40%;
+    margin: 5px;
+}
+
+.addres_li{
+    padding: 5px 0;
+}

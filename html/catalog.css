@@ -1,0 +1,42 @@
+.catalog_title{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.tov_list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.tov_img{
+    padding: 10px;
+    height: 300px;
+    width: 400px;
+    align-content: center;
+}
+
+.tov_text{
+    padding: 10px;
+    color: #998e91; 
+    font-size: 18px;
+}
+
+.tov_text:hover{    
+    color: rgba(156, 144, 144, 0.7);
+}
+
+.tov_title_1{
+    padding: 0 40px;
+    text-align: center;
+}
+
+.tov_text_1{
+    padding: 0 40px;
+    text-align: center;
+}
+
+.tovar{
+    align-content: center;
+}
